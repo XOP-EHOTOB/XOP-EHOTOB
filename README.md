@@ -3,10 +3,14 @@
 <h3 align="center">Full-Stack Developer from Russia 🇷🇺</h3>
 
 <p align="center">
-  <img width="90%" src="http://github-readme-streak-stats.herokuapp.com?user=XOP-EHOTOB&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
+  <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=XOP-EHOTOB&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>Skills:</p>
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
