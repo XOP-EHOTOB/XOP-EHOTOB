@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Full-Stack Developer from Russia 🇷🇺</h3>
 
-<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=XOP-EHOTOB" />
+<img align="center" width="90%" alt="XOP-EHOTOB" src="https://github-readme-streak-stats.herokuapp.com/?user=XOP-EHOTOB" />
