@@ -2,9 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Full-Stack Developer from Russia 🇷🇺</h3>
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XOP-EHOTOB&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekl)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOP-EHOTOB&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>Skills:</p>
